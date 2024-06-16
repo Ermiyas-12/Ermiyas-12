@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermiyas-12&label=Profile%20views&color=0e75b6&style=flat" alt="ermiyas-12" /> </p>
 
+- 🔭 I’m currently working on [amazon clone website](https://github.com/Ermiyas-12/amazon-clone)
+
+- 🌱 I’m currently learning **react, and I am taking a data analyst course.**
+
+- 💬 Ask me about **html,css and javascript**
+
 - 📫 How to reach me **ermiyasgr27@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, I'm either watching football or exercising.**
