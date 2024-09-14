@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [amazon clone website](https://github.com/Ermiyas-12/amazon-clone)
 
-- 🌱 I’m currently learning **react, and I am taking a data analyst course.**
+- 🌱 I’m currently learning **express.js, and I .**
 
-- 💬 Ask me about **html,css and javascript**
+- 💬 Ask me about **html,css,javascript,react,node and express**
 
 - 📫 How to reach me **ermiyasgr27@gmail.com**
 
