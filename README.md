@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermiyas-12&label=Profile%20views&color=0e75b6&style=flat" alt="ermiyas-12" /> </p>
 
-- 🔭 I’m currently working on [amazon clone website](https://github.com/Ermiyas-12/amazon-clone)
-
 - 🌱 I’m currently learning **express.js, and I .**
 
-- 💬 Ask me about **html,css,javascript,react,node and express**
+- 💬 Ask me about **react, next.js, node and express**
 
 - 📫 How to reach me **ermiyasgr27@gmail.com**
 
